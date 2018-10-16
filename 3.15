@@ -1,0 +1,11 @@
+thermocouple1=[84.3 86.4 85.2 87.1 83.5 84.8 85.0 85.3 85.3 85.2 82.3 84.7 83.6]
+thermocouple2=[90.0 89.5 88.6 88.9 88.9 90.4 89.3 89.5 88.9 89.1 89.5 89.4 89.8]
+thermocouple3=[86.7 87.6 88.3 85.3 80.3 82.4 83.4 85.4 86.3 85.3 89.0 87.3 87.2]
+
+max_1=max(thermocouple1)
+min_1=min(thermocouple1)
+max_2=max(thermocouple2)
+min_2=min(thermocouple2)
+max_3=max(thermocouple3)
+min_3=min(thermocouple3)
+
